@@ -1,4 +1,4 @@
-# PSLM2015
+# PSLM2015: Pakistan Social and Living Standards Measurement Survey 2014-15
 
 ## Installation
 Use **devtools** to install the development version from Github:
